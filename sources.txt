@@ -1,0 +1,9 @@
+OFFICIAL SOURCES
+3M India: https://www.3mindia.in/3M/en_IN/
+3M automotive: https://www.3mindia.in/3M/en_IN/p/c/automotive/
+3M coatings: https://www.3mindia.in/3M/en_IN/p/c/coatings/i/automotive/
+Reckitt brands: https://www.reckitt.com/brands/
+Reckitt Powerbrands: https://www.reckitt.com/news/meet-our-powerbrands/
+
+IMAGE NOTE
+The website references official brand-hosted image URLs where available. This ZIP intentionally does not fabricate product photography. If a remote asset is unavailable, the card shows a clean fallback label rather than a broken image.
